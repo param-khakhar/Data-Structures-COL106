@@ -1,0 +1,90 @@
+Finding number of connected components
+Number of connected components = 0
+Add TriangleInterface 
+ Finding diameter 
+0
+Add TriangleInterface 
+Add TriangleInterface 
+Add TriangleInterface 
+ Finding diameter 
+2
+Add TriangleInterface 
+ Finding diameter 
+2
+Add TriangleInterface 
+Finding number of connected components
+Number of connected components = 3
+Finding number of connected components
+Number of connected components = 3
+Add TriangleInterface 
+Add TriangleInterface 
+ Finding Centroid 
+(9.8,11.6,0.0)
+Add TriangleInterface 
+Finding number of connected components
+Number of connected components = 1
+Finding number of connected components
+Number of connected components = 1
+ Finding diameter 
+5
+ Finding diameter 
+5
+ Finding diameter 
+5
+Add TriangleInterface 
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding diameter 
+5
+ Finding Centroid 
+(9.75,11.416667,0.0)
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding CLOSEST_COMPONENTS 
+0.0
+Finding number of connected components
+Number of connected components = 1
+ Finding CLOSEST_COMPONENTS 
+0.0
+Finding number of connected components
+Number of connected components = 1
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding diameter 
+5
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding Centroid 
+(9.75,11.416667,0.0)
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding diameter 
+5
+ Finding Centroid 
+(9.75,11.416667,0.0)
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding diameter 
+5
+ Finding Centroid 
+(9.75,11.416667,0.0)
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding Centroid 
+(9.75,11.416667,0.0)
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding CLOSEST_COMPONENTS 
+0.0

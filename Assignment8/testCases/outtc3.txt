@@ -1,0 +1,7 @@
+Add TriangleInterface 
+Add TriangleInterface 
+Add TriangleInterface 
+Checking mesh type
+Mesh type 3
+FINDING NEIGHBORS_OF_POINT
+(0.0,1.0,0.0) (0.0,-1.0,0.0)

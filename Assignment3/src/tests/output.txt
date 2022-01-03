@@ -1,0 +1,13 @@
+Consumed 3
+Consumed 2
+Consumed 1
+Consumed 1
+Consumed 1
+Consumed 1
+Consumed 1
+Consumed 2
+Inventory empty!
+Consumed 3
+Consumed 3
+Consumed 3
+Consumed 3

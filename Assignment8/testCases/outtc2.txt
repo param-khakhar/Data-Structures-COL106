@@ -1,0 +1,11 @@
+Add TriangleInterface 
+Add TriangleInterface 
+Add TriangleInterface 
+Add TriangleInterface 
+Add TriangleInterface 
+Checking mesh type
+Mesh type 2
+Finding number of connected components
+Number of connected components = 1
+Getting boundary edges
+[(0.0,-1.0,0.0),(0.0,0.0,3.0)] [(0.0,-1.0,0.0),(1.0,0.0,0.0)] [(0.0,0.0,3.0),(1.0,0.0,0.0)]

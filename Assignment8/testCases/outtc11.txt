@@ -1,0 +1,410 @@
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Add TriangleInterface
+Checking mesh type
+Mesh type 2
+Finding number of connected components
+Number of connected components = 3
+Finding Centroid
+(-0.50349706,-1.3353853,-1.00631) (1.4341664,-1.705658,-0.12804636) (3.5933666,-1.3798546,1.2447205)
+Finding CLOSEST_COMPONENTS
+0
+ Finding diameter
+140
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+CHECKING IS_CONNECTED
+Is connected = true
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056581,-0.12804638)
+ Finding CENTROID_OF_COMPONENT
+(1.4341667,-1.7056583,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.7056583,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341663,-1.7056584,-0.12804632)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.705658,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056588,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056581,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.705658,-0.12804638)
+ Finding CENTROID_OF_COMPONENT
+(1.4341666,-1.7056584,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341658,-1.7056587,-0.1280464)
+ Finding CENTROID_OF_COMPONENT
+(1.4341666,-1.7056586,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056581,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341668,-1.7056584,-0.12804645)
+ Finding CENTROID_OF_COMPONENT
+(1.4341667,-1.7056583,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.705658,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.4341666,-1.7056583,-0.12804629)
+ Finding CENTROID_OF_COMPONENT
+(1.4341667,-1.7056586,-0.12804633)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056581,-0.1280464)
+ Finding CENTROID_OF_COMPONENT
+(1.4341658,-1.7056587,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056584,-0.12804642)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.705658,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.434166,-1.7056588,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056581,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341666,-1.7056584,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.705658,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056581,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341666,-1.7056583,-0.12804629)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.705658,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.705658,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.4341666,-1.7056584,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341666,-1.7056584,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056581,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341666,-1.7056584,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.7056581,-0.1280464)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.7056581,-0.1280464)
+ Finding CENTROID_OF_COMPONENT
+(1.4341667,-1.7056583,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.434166,-1.7056588,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.705658,-0.12804638)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.7056581,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.434166,-1.7056589,-0.12804641)
+ Finding CENTROID_OF_COMPONENT
+(1.4341663,-1.7056584,-0.12804632)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.7056581,-0.1280464)
+ Finding CENTROID_OF_COMPONENT
+(1.4341666,-1.7056584,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056587,-0.12804636)
+ Finding CENTROID_OF_COMPONENT
+(1.4341663,-1.7056584,-0.12804632)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.7056584,-0.1280463)
+ Finding CENTROID_OF_COMPONENT
+(1.434166,-1.7056588,-0.12804633)
+ Finding CENTROID_OF_COMPONENT
+(1.434166,-1.7056587,-0.12804635)
+ Finding CENTROID_OF_COMPONENT
+(1.4341664,-1.7056581,-0.1280464)
+ Finding CENTROID_OF_COMPONENT
+(1.4341662,-1.7056581,-0.12804638)

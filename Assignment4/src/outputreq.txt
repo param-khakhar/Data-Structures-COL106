@@ -1,0 +1,248 @@
+1
+1
+1
+2
+1
+2
+2
+1
+2
+3
+1
+3
+2
+1
+2
+2
+2
+4
+3
+3
+3
+2
+3
+3
+4
+5
+3
+3
+4
+3
+3
+3
+4
+4
+2
+4
+4
+2
+4
+4
+2
+3
+4
+3
+5
+4
+3
+5
+Mohan Kumar xyz xyz xyz
+4
+4
+5-RL
+T
+Abhishek Sharma xyz xyz xyz
+E
+T
+T
+T
+4
+F
+T
+Mohan Sharma xyz xyz xyz
+2
+2
+0-R
+6-LRR
+Shyam Kumar xyz xyz xyz
+Shyam Kumar xyz xyz xyz
+4-LRRL
+Shyam Bansal xyz xyz xyz
+T
+3
+3
+2
+T
+T
+F
+T
+Shyam Sharma xyz xyz xyz
+T
+3
+2-RR
+3
+6-LL
+Mohan Gupta xyz xyz xyz
+6-R
+1
+F
+T
+Ram Agrawal xyz xyz xyz
+5-RR
+2-RRL
+5-L
+2
+3
+2
+4-LL
+T
+3-L
+T
+4
+E
+Aman Tiwari xyz xyz xyz
+E
+Aman Agrawal xyz xyz xyz
+5-LL
+5
+2-RR
+4
+6-R
+E
+T
+T
+3
+4
+4
+5
+T
+Shyam Agrawal xyz xyz xyz
+F
+Mohan Agrawal xyz xyz xyz
+3
+E
+4
+E
+Ram Agrawal xyz xyz xyz
+Mohan Agrawal xyz xyz xyz
+4
+E
+3
+Shyam Singh xyz xyz xyz
+2
+F
+4
+5
+4-L
+1-R
+5-L
+T
+F
+T
+T
+2
+2
+F
+4
+E
+6-R
+E
+2-LRR
+6-LRR
+T
+E
+E
+F
+F
+3
+T
+F
+Mohan Singh xyz xyz xyz
+3
+E
+T
+Ram Gupta xyz xyz xyz
+F
+E
+4
+E
+2-LRRL
+3
+F
+6-LR
+E
+2-L
+E
+E
+E
+5
+Shyam Sharma xyz xyz xyz
+T
+2
+3
+E
+E
+E
+2-RR
+T
+Shyam Sharma xyz xyz xyz
+E
+4
+E
+4
+5
+E
+E
+Shyam Agrawal xyz xyz xyz
+6-
+3
+4
+E
+F
+3
+Abhishek Sharma xyz xyz xyz
+2-LRRL
+2
+5-L
+T
+E
+F
+2-
+E
+E
+E
+2-RR
+E
+3
+E
+4
+E
+Ram Tiwari xyz xyz xyz
+4
+T
+Abhishek Kumar xyz xyz xyz
+2
+1
+E
+4
+F
+0-R
+F
+F
+Ram Tiwari xyz xyz xyz
+E
+Shyam Bansal xyz xyz xyz
+T
+E
+E
+E
+Mohan Kumar xyz xyz xyz
+6-RL
+3
+F
+2-LRR
+2
+E
+T
+F
+E

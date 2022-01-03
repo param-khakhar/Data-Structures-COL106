@@ -1,0 +1,12 @@
+Add TriangleInterface 
+Add TriangleInterface 
+Finding number of connected components
+Number of connected components = 2
+CHECKING IS_CONNECTED
+Is connected = false
+ Finding Centroid 
+(-0.33333334,0.0,0.0) (6.0,7.0,8.333333)
+ Finding CENTROID_OF_COMPONENT 
+(6.0,7.0,8.333333)
+ Finding CLOSEST_COMPONENTS 
+43.0

@@ -1,0 +1,36 @@
+Add TriangleInterface 
+Add TriangleInterface 
+Add TriangleInterface 
+Checking mesh type
+Mesh type 2
+Finding number of connected components
+Number of connected components = 1
+Getting boundary edges
+[(0.0,-1.0,0.0),(0.0,0.0,3.0)] [(0.0,-1.0,0.0),(0.0,1.0,0.0)] [(0.0,0.0,3.0),(0.0,1.0,0.0)]
+CHECKING IS_CONNECTED
+Is connected = false
+FINDING NEIGHBORS_OF_POINT
+(0.0,0.0,3.0) (0.0,-1.0,0.0) (0.0,1.0,0.0)
+FINDING NEIGHBORS_OF_TRIANGLE
+[(-1.0,0.0,0.0),(0.0,-1.0,0.0),(0.0,1.0,0.0)] [(-1.0,0.0,0.0),(0.0,0.0,3.0),(0.0,1.0,0.0)]
+FINDING INCIDENT_TRIANGLES 
+FINDING VERTEX_NEIGHBOR_TRIANGLE
+(-1.0,0.0,0.0) (0.0,-1.0,0.0) (0.0,0.0,3.0)
+FINDING EXTENDED_NEIGHBOR_TRIANGLE 
+[(-1.0,0.0,0.0),(0.0,-1.0,0.0),(0.0,1.0,0.0)] [(-1.0,0.0,0.0),(0.0,0.0,3.0),(0.0,1.0,0.0)]
+ Finding diameter 
+1
+FINDING VERTEX_NEIGHBOR_TRIANGLE
+(-1.0,0.0,0.0) (0.0,-1.0,0.0) (0.0,0.0,3.0)
+ Finding   EDGE_NEIGHBOR_TRIANGLE 
+[(-1.0,0.0,0.0),(0.0,-1.0,0.0)] [(-1.0,0.0,0.0),(0.0,-1.0,0.0)] [(-1.0,0.0,0.0),(0.0,-1.0,0.0)] [(0.0,-1.0,0.0),(0.0,0.0,3.0)] [(-1.0,0.0,0.0),(0.0,0.0,3.0)] [(0.0,-1.0,0.0),(0.0,0.0,3.0)] [(-1.0,0.0,0.0),(0.0,0.0,3.0)] [(0.0,-1.0,0.0),(0.0,0.0,3.0)] [(-1.0,0.0,0.0),(0.0,0.0,3.0)]
+ Finding TRIANGLE_NEIGHBOR_OF_EDGE 
+[(-1.0,0.0,0.0),(0.0,-1.0,0.0),(0.0,0.0,3.0)] [(-1.0,0.0,0.0),(0.0,-1.0,0.0),(0.0,1.0,0.0)]
+ Finding Centroid 
+(-0.25,0.0,0.75)
+ Finding CENTROID_OF_COMPONENT 
+(-0.25,0.0,0.75)
+ Finding CLOSEST_COMPONENTS 
+0.0
+ Finding   FACE_NEIGHBORS_OF_POINT 
+ Finding   EDGE_NEIGHBORS_OF_POINT 

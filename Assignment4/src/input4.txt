@@ -1,0 +1,14 @@
+insert Janaardan Bhartiya Nilgiri CS 6.5
+insert Shoukat Ismaail Nilgiri CS 6.5
+insert Jack Nicholson Nilgiri CS 6.5
+insert Kallu Yadav Nilgiri CS 6.5
+insert Tunni Bai Kailash CS 6.5
+insert Tillu Yadav Nilgiri CS 6.5
+address Kallu Yadav
+update Tunni Bai Kailash CS 6.8
+delete Shoukat Ismaail
+address Kallu Yadav
+get Shoukat Ismaail
+
+
+

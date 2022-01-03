@@ -1,0 +1,44 @@
+Inserting: Diljeet Singh
+Inserting: Bhavesh Kumar
+Inserting: Chayan Malhotra
+Inserting: Ekta Mittal
+Inserting: Farhan Khan
+Inserting: Dishant Goyal
+Inserting: Dishant Kumar
+Inserting: Dishant Gupta
+Searching: Dishant Goyal
+FOUND
+[Name: Dishant Goyal, Phone=+91987654321]
+Matching: Di
+MATCHED:
+[Name: Diljeet Singh, Phone=+91987654321]
+[Name: Dishant Kumar, Phone=+91987654321]
+[Name: Dishant Goyal, Phone=+91987654321]
+[Name: Dishant Gupta, Phone=+91987654321]
+Matching: di
+NOT FOUND
+Deleting: Dishant Goyal
+Searching: Dishant Goyal
+NOT FOUND
+Matching: SK
+NOT FOUND
+Level 2: h h i k a 
+-------------
+Printing Trie
+Level 1: B C D E F 
+Level 2: h h i k a 
+Level 3: a a s l t r 
+Level 4: v y h j a h 
+Level 5: e a a e   a 
+Level 6: s n n e M n 
+Level 7: h   t t i   
+Level 8:   M     t K 
+Level 9: K a G K S t h 
+Level 10: u l u u i a a 
+Level 11: m h p m n l n 
+Level 12: a o t a g 
+Level 13: r t a r h 
+Level 14: r 
+Level 15: a 
+Level 16: 
+-------------

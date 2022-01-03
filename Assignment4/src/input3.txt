@@ -1,0 +1,3 @@
+insert Kallu Yadav Nilgiri CS 6.5
+delete Kallu Yadav
+
